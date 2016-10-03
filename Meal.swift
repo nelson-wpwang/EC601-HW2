@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  Meal.swift
 //  FoodTracker_new
 //
 //  Created by Nelson Wang on 10/2/16.
